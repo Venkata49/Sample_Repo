@@ -1,0 +1,3 @@
+101,Venkata kumar,23,MCA,JMD
+102,Sreenivasulu,30,MCA,DNl
+103,Lakshmi,20,BSC,DNL
